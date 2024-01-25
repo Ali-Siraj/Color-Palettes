@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 98.5vw;
+    height: 100vh;
+    margin: 10px;
+}
+
+::-webkit-scrollbar{
+    width: 7px;
+}
+::-webkit-scrollbar-thumb{
+    background-image: linear-gradient(transparent,#475264,#15eb92);
+    border-radius: 7px;
+}
+::-webkit-scrollbar-track{
+    background-color: rgb(192, 177, 177);
+}
+::-webkit-scrollbar-corner{
+    background-color: rgb(192, 177, 177);
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.color-palette1{
+    width: 20vw;
+    height: 30vh;
+    background-color: #ff9ff3;
+}
+.color-palette2{
+    width: 20vw;
+    height: 30vh;
+    background-color: #feca57;
+}
+.color-palette3{
+    width: 19vw;
+    height: 30vh;
+    background-color: #ff6b6b;
+}
+.color-palette4{
+    width: 19vw;
+    height: 30vh;
+    background-color: #48dbfb;
+}
+.color-palette5{
+    width: 20vw;
+    height: 30vh;
+    background-color: #1dd1a1;
+}
+.color-palette6{
+    width: 20vw;
+    height: 30vh;
+    background-color: #f368e0;
+}
+.color-palette7{
+    width: 20vw;
+    height: 30vh;
+    background-color: #ff9f43;
+}
+.color-palette8{
+    width: 19vw;
+    height: 30vh;
+    background-color: #ee5253;
+}
+.color-palette9{
+    width: 19vw;
+    height: 30vh;
+    background-color: #0abde3;
+}
+.color-palette10{
+    width: 20vw;
+    height: 30vh;
+    background-color: #10ac84;
+}
+.color-palette11{
+    width: 20vw;
+    height: 30vh;
+    background-color: #00d2d3;
+}
+.color-palette12{
+    width: 20vw;
+    height: 30vh;
+    background-color: #54a0ff;
+}
+.color-palette13{
+    width: 19vw;
+    height: 30vh;
+    background-color: #5f27cd;
+}
+.color-palette14{
+    width: 19vw;
+    height: 30vh;
+    background-color: #c8d6e5;
+}
+.color-palette15{
+    width: 20vw;
+    height: 30vh;
+    background-color: #576574;
+}
+.color-palette16{
+    width: 20vw;
+    height: 30vh;
+    background-color: #01a3a4;
+}
+.color-palette17{
+    width: 20vw;
+    height: 30vh;
+    background-color: #2e86de;
+}
+.color-palette18{
+    width: 19vw;
+    height: 30vh;
+    background-color: #341f97;
+}
+.color-palette19{
+    width: 19vw;
+    height: 30vh;
+    background-color: #8395a7;
+}
+.color-palette20{
+    width: 20vw;
+    height: 30vh;
+    background-color: #222f3e;
+}
